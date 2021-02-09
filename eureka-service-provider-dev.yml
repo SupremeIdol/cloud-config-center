@@ -1,0 +1,4 @@
+idol: 
+  message: Hello World! 1
+mysql: 
+  url: http://localhost:3306/test1
