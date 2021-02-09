@@ -1,4 +1,4 @@
 idol: 
-  message: Hello World! 2
+  message: Hello World! 3
 mysql: 
-  url: http://localhost:3306/test2
+  url: http://localhost:3306/test3
