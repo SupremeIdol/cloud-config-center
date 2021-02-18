@@ -1,7 +1,7 @@
 idol: 
-  message: Hello World! 5
+  message: Hello World! 6
 mysql: 
-  url: http://localhost:3306/test5
+  url: http://localhost:3306/test6
   
 spring:
   application:
