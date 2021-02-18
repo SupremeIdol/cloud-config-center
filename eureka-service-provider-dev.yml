@@ -2,3 +2,15 @@ idol:
   message: Hello World! 4
 mysql: 
   url: http://localhost:3306/test4
+  
+spring:
+  application:
+    name: cloud-service-code
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/cloud3-4?serverTimezone=UTC
+      username: root
+      password: root
+      min-idle: 1
+      max-active: 3
